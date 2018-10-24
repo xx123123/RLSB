@@ -1,0 +1,11 @@
+﻿RunAction "MainAction", oneIteration
+RunAction "新建目标库", oneIteration
+RunAction "目标库", oneIteration
+RunAction "新建区域", oneIteration
+RunAction "新建通道", oneIteration
+RunAction "新建策略", oneIteration
+RunAction "布控任务", oneIteration
+RunAction "首页", oneIteration
+RunAction "预警历史", oneIteration
+RunAction "抓拍历史", oneIteration
+RunAction "人像检索", oneIteration
